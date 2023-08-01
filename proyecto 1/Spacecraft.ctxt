@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Spacecraft
+comment1.params=
+comment1.target=Spacecraft()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkKeyPress()
+comment4.params=
+comment4.target=void\ checkCollision()
+comment5.params=
+comment5.target=void\ checkWin()
+comment6.params=
+comment6.target=void\ collectStar()
+comment7.params=amount
+comment7.target=void\ refuel(int)
+comment8.params=amount
+comment8.target=void\ useFuel(int)
+numComments=9
